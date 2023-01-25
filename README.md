@@ -1,7 +1,8 @@
-Cypruian data provider
+Cypruian
 
-Bitcoin
+Bitcoin data
 
-API | Special research
+Bitcoin research, advanced metrics, statistical and analytical insights. 
+Data is available through Cypruian API.
 
-Contact: {contact, ae} [at] cypruian.com 
+Contact: {contact, ae}@cypruian.com 
